@@ -69,3 +69,8 @@
 |
 +--- 🗂TestData // TestDataファイルフォルダ
 ```
+
+<br/><br/>
+
+## 👉 License
+"ZIPADOO" is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
