@@ -1,5 +1,5 @@
 # Zipadoo - 地殻(遅刻)掘るモグラ
-<center><img src="https://github.com/JASONLEE-hub/ZIPADOO-in-TECHIT/assets/81094267/bc47145d-3e22-4be4-8ddc-e2a419ddf853" width="10%" height="10%"></center>
+<center><img src="https://github.com/JASONLEE-hub/ZIPADOO-in-TECHIT/assets/81094267/bc47145d-3e22-4be4-8ddc-e2a419ddf853" width="15%" height="15%"></center>
 <br/><br/>
 
 - 遅刻防止アプリで、地殻と遅刻の発音の同じさを使ったユーモラスなコンセプトのアプリです。
@@ -9,9 +9,13 @@
 <br/><br/>
 
 ## 👉アプリの実演映像
-![재승 시연영상1](https://github.com/JASONLEE-hub/ITDA/assets/81094267/46266f8b-799f-4588-b5c0-c15719f74e5b)
-![재승 시연영상2](https://github.com/JASONLEE-hub/ITDA/assets/81094267/86bd1b46-cc34-46f8-8a1b-0b9b2de27af4)
-![재승 시연영상3](https://github.com/JASONLEE-hub/ITDA/assets/81094267/88cf4a5f-d0ce-4df9-befa-aa6b8c434412)
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/JASONLEE-hub/ITDA/assets/81094267/46266f8b-799f-4588-b5c0-c15719f74e5b" alt="1">
+    <td><img src="https://github.com/JASONLEE-hub/ITDA/assets/81094267/86bd1b46-cc34-46f8-8a1b-0b9b2de27af4" alt="2"></td>
+    <td><img src="https://github.com/JASONLEE-hub/ITDA/assets/81094267/88cf4a5f-d0ce-4df9-befa-aa6b8c434412" alt="3"></td>
+  </tr>
+</table>
 
 <br/><br/>
 
