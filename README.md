@@ -7,7 +7,7 @@
 - 遅刻をした場合、罰金(ジャガイモ)を払わなければなりません。 また、評判が下がり、自分のキャラクターが地球地殻の中に入ることになります。
   
 <br/><br/>
-## 👉アプリの実演映像
+## 👉 アプリの実演映像
 <table align="center">
   <tr>
     <td><img src="https://github.com/JASONLEE-hub/ITDA/assets/81094267/46266f8b-799f-4588-b5c0-c15719f74e5b" alt="1">
@@ -17,7 +17,7 @@
 </table>
 <br/><br/>
 
-## 👉Team, GitHub
+## 👉 Team, GitHub
   - イム·ビョング(PM) : https://github.com/9oos
   - ユン·ヘス(PO) : https://github.com/Haesus
   - キム·サンギュ : https://github.com/skkim125
@@ -30,16 +30,16 @@
   
 <br/><br/>
  
-## 👉プロジェクト期間
+## 👉 プロジェクト期間
   - 企画 : 2023.9.19 ~ 9.22
   - 開発 : 2023.9.21 ~ 10.24
 <br/><br/>
-## 👉技術スタック
+## 👉 技術スタック
     - 開発環境 : Swift 5.9, iOS 17.0, XCode Version 15.0 / Firebase
     - 協業ツール : Github, Discord, Figma, Notion, SwiftLint
     - ライブラリー : Firebase, SwiftLint, Lottie, Alamofire, TossPayments
 <br/><br/>
-## 👉フォルダー構造
+## 👉 フォルダー構造
 ```
 📦 AppleStore
 |
@@ -64,6 +64,13 @@
 +--- 🗂TestData // TestDataファイルフォルダ
 ```
 
+<br/><br/>
+
+## 👉 インストール / 実行方法
+- Firebase グーグルインフォ消費者用、管理者用の設置が必要
+```
+GoogleService-info.plist
+```
 <br/><br/>
 
 ## 👉 License
