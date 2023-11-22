@@ -1,6 +1,7 @@
 # Zipadoo - 地殻(遅刻)掘るモグラ
 <center><img src="https://github.com/JASONLEE-hub/ZIPADOO-in-TECHIT/assets/81094267/bc47145d-3e22-4be4-8ddc-e2a419ddf853" width="15%" height="15%"></center>
 <br/><br/>
+
 - 遅刻防止アプリで、地殻と遅刻の発音の同じさを使ったユーモラスなコンセプトのアプリです。
 - ユーザーの位置を追跡し、約束の時間内に約束の場所に到着したことを確認します。
 - 遅刻をした場合、罰金(ジャガイモ)を払わなければなりません。 また、評判が下がり、自分のキャラクターが地球地殻の中に入ることになります。
@@ -15,6 +16,7 @@
   </tr>
 </table>
 <br/><br/>
+
 ## 👉Team, GitHub
   - イム·ビョング(PM) : https://github.com/9oos
   - ユン·ヘス(PO) : https://github.com/Haesus
@@ -25,6 +27,7 @@
   - イ·ジェスン : https://github.com/JASONLEE-hub
   - チャン·ヨフン : https://github.com/jangyeohoon
   - チョン·ハンドゥ : https://github.com/B-SSandoo
+  
 <br/><br/>
  
 ## 👉プロジェクト期間
