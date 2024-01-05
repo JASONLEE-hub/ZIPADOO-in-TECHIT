@@ -2,9 +2,12 @@
 <center><img src="https://github.com/JASONLEE-hub/ZIPADOO-in-TECHIT/assets/81094267/bc47145d-3e22-4be4-8ddc-e2a419ddf853" width="15%" height="15%"></center>
 <br/><br/>
 
+## 👉 アプリの紹介、App storeリンク
+
 - 遅刻防止アプリで、韓国語で同じ発音である単語、「地殻」と「遅刻」を使ったユーモアなコンセプトのアプリです。
 - ユーザーの位置を追跡し、約束の時間内に約束の場所に到着したことを確認します。
 - 遅刻をした場合、罰金(ジャガイモ)を払わなければなりません。 また、評判が下がり、自分のキャラクターが地球地殻の中に入ることになります。
+- [App Storeリンク](https://apps.apple.com/kr/app/%EC%A7%80%ED%8C%8C%EB%91%90/id6474185787)
   
 <br/><br/>
 ## 👉 アプリの実演映像
