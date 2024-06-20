@@ -1,6 +1,8 @@
 # Zipadoo - 地殻(遅刻)掘るモグラ
 <center><img src="https://github.com/JASONLEE-hub/ZIPADOO-in-TECHIT/assets/81094267/bc47145d-3e22-4be4-8ddc-e2a419ddf853" width="15%" height="15%"></center>
 <br/><br/>
+- 担当：約束状況マップビュー機能、ビュー実装担当、マイページビュー実装担当、コンセプトアイデア提供など
+<br/><br/>
 
 ## 👉 アプリの紹介、App storeリンク
 
